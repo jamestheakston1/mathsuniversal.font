@@ -12,3 +12,14 @@ GIF not loading? Follow the steps below:
 2. Save it to your computer.
 3. The font is ready to use!
 
+## Editing the font
+
+![Tutorial for editing font](https://github.com/jamestheakston1/mathsuniversal.font/blob/main/README.assets/Video%20Project%202.gif?raw=true)
+
+GIF not loading? Follow the steps below:
+
+1. Download the Glyphs program from [here](https://glyphsapp.com).
+2. Download the .glyphs file from the GitHub repository.
+3. Save it to your computer.
+4. Open the font from your file explorer
+5. It will open in Glyphs, you are now ready to enjoy the font and edit it!
