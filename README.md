@@ -28,4 +28,4 @@ GIF not loading? Follow the steps below:
 
 ### Windows Guide
 
-1. Download the .otf file from the releases page on this repo, and use your preferred font editing program, such as Adobe Illustrator.
+1. Download the .otf file from the releases page on this repo, and use your preferred font editing program, such as Adobe Illustrator to edit it.
