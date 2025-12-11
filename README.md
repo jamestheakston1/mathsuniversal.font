@@ -14,6 +14,8 @@ GIF not loading? Follow the steps below:
 
 ## Editing the font
 
+### MacOS Guide
+
 ![Tutorial for editing font](https://github.com/jamestheakston1/mathsuniversal.font/blob/main/README.assets/Video%20Project%202.gif?raw=true)
 
 GIF not loading? Follow the steps below:
@@ -23,3 +25,7 @@ GIF not loading? Follow the steps below:
 3. Save it to your computer.
 4. Open the font from your file explorer
 5. It will open in Glyphs, you are now ready to enjoy the font and edit it!
+
+### Windows Guide
+
+1. Download the .otf file from the releases page on this repo, and use your preferred font editing program, such as Adobe Illustrator.
