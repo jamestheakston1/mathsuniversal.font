@@ -1,0 +1,3061 @@
+{
+.appVersion = "3436";
+.formatVersion = 3;
+date = "2025-12-11 17:01:39 +0000";
+familyName = "Maths Universal";
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+}
+);
+name = Regular;
+}
+);
+glyphs = (
+{
+glyphname = "Abold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119808;
+},
+{
+glyphname = "Bbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119809;
+},
+{
+glyphname = "Cbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119810;
+},
+{
+glyphname = "Dbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119811;
+},
+{
+glyphname = "Ebold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119812;
+},
+{
+glyphname = "Fbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119813;
+},
+{
+glyphname = "Gbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119814;
+},
+{
+glyphname = "Hbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119815;
+},
+{
+glyphname = "Ibold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119816;
+},
+{
+glyphname = "Jbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119817;
+},
+{
+glyphname = "Kbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119818;
+},
+{
+glyphname = "Lbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119819;
+},
+{
+glyphname = "Mbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119820;
+},
+{
+glyphname = "Nbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119821;
+},
+{
+glyphname = "Obold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119822;
+},
+{
+glyphname = "Pbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119823;
+},
+{
+glyphname = "Qbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119824;
+},
+{
+glyphname = "Rbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119825;
+},
+{
+glyphname = "Sbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119826;
+},
+{
+glyphname = "Tbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119827;
+},
+{
+glyphname = "Ubold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119828;
+},
+{
+glyphname = "Vbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119829;
+},
+{
+glyphname = "Wbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119830;
+},
+{
+glyphname = "Xbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119831;
+},
+{
+glyphname = "Ybold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119832;
+},
+{
+glyphname = "Zbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119833;
+},
+{
+glyphname = "Aitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119860;
+},
+{
+glyphname = "Bitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119861;
+},
+{
+glyphname = "Citalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119862;
+},
+{
+glyphname = "Ditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119863;
+},
+{
+glyphname = "Eitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119864;
+},
+{
+glyphname = "Fitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119865;
+},
+{
+glyphname = "Gitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119866;
+},
+{
+glyphname = "Hitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119867;
+},
+{
+glyphname = "Iitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119868;
+},
+{
+glyphname = "Jitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119869;
+},
+{
+glyphname = "Kitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119870;
+},
+{
+glyphname = "Litalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119871;
+},
+{
+glyphname = "Mitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119872;
+},
+{
+glyphname = "Nitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119873;
+},
+{
+glyphname = "Oitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119874;
+},
+{
+glyphname = "Pitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119875;
+},
+{
+glyphname = "Qitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119876;
+},
+{
+glyphname = "Ritalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119877;
+},
+{
+glyphname = "Sitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119878;
+},
+{
+glyphname = "Titalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119879;
+},
+{
+glyphname = "Uitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119880;
+},
+{
+glyphname = "Vitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119881;
+},
+{
+glyphname = "Witalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119882;
+},
+{
+glyphname = "Xitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119883;
+},
+{
+glyphname = "Yitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119884;
+},
+{
+glyphname = "Zitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119885;
+},
+{
+glyphname = "Abolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119912;
+},
+{
+glyphname = "Bbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119913;
+},
+{
+glyphname = "Cbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119914;
+},
+{
+glyphname = "Dbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119915;
+},
+{
+glyphname = "Ebolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119916;
+},
+{
+glyphname = "Fbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119917;
+},
+{
+glyphname = "Gbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119918;
+},
+{
+glyphname = "Hbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119919;
+},
+{
+glyphname = "Ibolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119920;
+},
+{
+glyphname = "Jbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119921;
+},
+{
+glyphname = "Kbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119922;
+},
+{
+glyphname = "Lbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119923;
+},
+{
+glyphname = "Mbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119924;
+},
+{
+glyphname = "Nbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119925;
+},
+{
+glyphname = "Obolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119926;
+},
+{
+glyphname = "Pbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119927;
+},
+{
+glyphname = "Qbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119928;
+},
+{
+glyphname = "Rbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119929;
+},
+{
+glyphname = "Sbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119930;
+},
+{
+glyphname = "Tbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119931;
+},
+{
+glyphname = "Ubolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119932;
+},
+{
+glyphname = "Vbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119933;
+},
+{
+glyphname = "Wbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119934;
+},
+{
+glyphname = "Xbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119935;
+},
+{
+glyphname = "Ybolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119936;
+},
+{
+glyphname = "Zbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119937;
+},
+{
+glyphname = "Ascript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119964;
+},
+{
+glyphname = "Cscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119966;
+},
+{
+glyphname = "Dscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119967;
+},
+{
+glyphname = "Gscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119970;
+},
+{
+glyphname = "Jscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119973;
+},
+{
+glyphname = "Kscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119974;
+},
+{
+glyphname = "Nscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119977;
+},
+{
+glyphname = "Oscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119978;
+},
+{
+glyphname = "Pscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119979;
+},
+{
+glyphname = "Qscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119980;
+},
+{
+glyphname = "Sscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119982;
+},
+{
+glyphname = "Tscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119983;
+},
+{
+glyphname = "Uscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119984;
+},
+{
+glyphname = "Vscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119985;
+},
+{
+glyphname = "Wscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119986;
+},
+{
+glyphname = "Xscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119987;
+},
+{
+glyphname = "Yscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119988;
+},
+{
+glyphname = "Zscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119989;
+},
+{
+glyphname = "Aboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120016;
+},
+{
+glyphname = "Bboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120017;
+},
+{
+glyphname = "Cboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120018;
+},
+{
+glyphname = "Dboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120019;
+},
+{
+glyphname = "Eboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120020;
+},
+{
+glyphname = "Fboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120021;
+},
+{
+glyphname = "Gboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120022;
+},
+{
+glyphname = "Hboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120023;
+},
+{
+glyphname = "Iboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120024;
+},
+{
+glyphname = "Jboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120025;
+},
+{
+glyphname = "Kboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120026;
+},
+{
+glyphname = "Lboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120027;
+},
+{
+glyphname = "Mboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120028;
+},
+{
+glyphname = "Nboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120029;
+},
+{
+glyphname = "Oboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120030;
+},
+{
+glyphname = "Pboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120031;
+},
+{
+glyphname = "Qboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120032;
+},
+{
+glyphname = "Rboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120033;
+},
+{
+glyphname = "Sboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120034;
+},
+{
+glyphname = "Tboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120035;
+},
+{
+glyphname = "Uboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120036;
+},
+{
+glyphname = "Vboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120037;
+},
+{
+glyphname = "Wboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120038;
+},
+{
+glyphname = "Xboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120039;
+},
+{
+glyphname = "Yboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120040;
+},
+{
+glyphname = "Zboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120041;
+},
+{
+glyphname = "abold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119834;
+},
+{
+glyphname = "bbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119835;
+},
+{
+glyphname = "cbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119836;
+},
+{
+glyphname = "dbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119837;
+},
+{
+glyphname = "ebold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119838;
+},
+{
+glyphname = "fbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119839;
+},
+{
+glyphname = "gbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119840;
+},
+{
+glyphname = "hbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119841;
+},
+{
+glyphname = "ibold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119842;
+},
+{
+glyphname = "jbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119843;
+},
+{
+glyphname = "kbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119844;
+},
+{
+glyphname = "lbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119845;
+},
+{
+glyphname = "mbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119846;
+},
+{
+glyphname = "nbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119847;
+},
+{
+glyphname = "obold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119848;
+},
+{
+glyphname = "pbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119849;
+},
+{
+glyphname = "qbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119850;
+},
+{
+glyphname = "rbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119851;
+},
+{
+glyphname = "sbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119852;
+},
+{
+glyphname = "tbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119853;
+},
+{
+glyphname = "ubold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119854;
+},
+{
+glyphname = "vbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119855;
+},
+{
+glyphname = "wbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119856;
+},
+{
+glyphname = "xbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119857;
+},
+{
+glyphname = "ybold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119858;
+},
+{
+glyphname = "zbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119859;
+},
+{
+glyphname = "aitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119886;
+},
+{
+glyphname = "bitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119887;
+},
+{
+glyphname = "citalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119888;
+},
+{
+glyphname = "ditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119889;
+},
+{
+glyphname = "eitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119890;
+},
+{
+glyphname = "fitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119891;
+},
+{
+glyphname = "gitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119892;
+},
+{
+glyphname = "iitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119894;
+},
+{
+glyphname = "jitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119895;
+},
+{
+glyphname = "kitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119896;
+},
+{
+glyphname = "litalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119897;
+},
+{
+glyphname = "mitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119898;
+},
+{
+glyphname = "nitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119899;
+},
+{
+glyphname = "oitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119900;
+},
+{
+glyphname = "pitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119901;
+},
+{
+glyphname = "qitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119902;
+},
+{
+glyphname = "ritalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119903;
+},
+{
+glyphname = "sitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119904;
+},
+{
+glyphname = "titalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119905;
+},
+{
+glyphname = "uitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119906;
+},
+{
+glyphname = "vitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119907;
+},
+{
+glyphname = "witalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119908;
+},
+{
+glyphname = "xitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119909;
+},
+{
+glyphname = "yitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119910;
+},
+{
+glyphname = "zitalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119911;
+},
+{
+glyphname = "abolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119938;
+},
+{
+glyphname = "bbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119939;
+},
+{
+glyphname = "cbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119940;
+},
+{
+glyphname = "dbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119941;
+},
+{
+glyphname = "ebolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119942;
+},
+{
+glyphname = "fbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119943;
+},
+{
+glyphname = "gbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119944;
+},
+{
+glyphname = "hbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119945;
+},
+{
+glyphname = "ibolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119946;
+},
+{
+glyphname = "jbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119947;
+},
+{
+glyphname = "kbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119948;
+},
+{
+glyphname = "lbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119949;
+},
+{
+glyphname = "mbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119950;
+},
+{
+glyphname = "nbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119951;
+},
+{
+glyphname = "obolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119952;
+},
+{
+glyphname = "pbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119953;
+},
+{
+glyphname = "qbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119954;
+},
+{
+glyphname = "rbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119955;
+},
+{
+glyphname = "sbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119956;
+},
+{
+glyphname = "tbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119957;
+},
+{
+glyphname = "ubolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119958;
+},
+{
+glyphname = "vbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119959;
+},
+{
+glyphname = "wbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119960;
+},
+{
+glyphname = "xbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119961;
+},
+{
+glyphname = "ybolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119962;
+},
+{
+glyphname = "zbolditalic-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119963;
+},
+{
+glyphname = "ascript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119990;
+},
+{
+glyphname = "bscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119991;
+},
+{
+glyphname = "cscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119992;
+},
+{
+glyphname = "dscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119993;
+},
+{
+glyphname = "fscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119995;
+},
+{
+glyphname = "hscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119997;
+},
+{
+glyphname = "iscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119998;
+},
+{
+glyphname = "jscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 119999;
+},
+{
+glyphname = "kscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120000;
+},
+{
+glyphname = "lscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120001;
+},
+{
+glyphname = "mscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120002;
+},
+{
+glyphname = "nscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120003;
+},
+{
+glyphname = "pscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120005;
+},
+{
+glyphname = "qscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120006;
+},
+{
+glyphname = "rscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120007;
+},
+{
+glyphname = "sscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120008;
+},
+{
+glyphname = "tscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120009;
+},
+{
+glyphname = "uscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120010;
+},
+{
+glyphname = "vscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120011;
+},
+{
+glyphname = "wscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120012;
+},
+{
+glyphname = "xscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120013;
+},
+{
+glyphname = "yscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120014;
+},
+{
+glyphname = "zscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120015;
+},
+{
+glyphname = "aboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120042;
+},
+{
+glyphname = "bboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120043;
+},
+{
+glyphname = "cboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120044;
+},
+{
+glyphname = "dboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120045;
+},
+{
+glyphname = "eboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120046;
+},
+{
+glyphname = "fboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120047;
+},
+{
+glyphname = "gboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120048;
+},
+{
+glyphname = "hboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120049;
+},
+{
+glyphname = "iboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120050;
+},
+{
+glyphname = "jboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120051;
+},
+{
+glyphname = "kboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120052;
+},
+{
+glyphname = "lboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120053;
+},
+{
+glyphname = "mboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120054;
+},
+{
+glyphname = "nboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120055;
+},
+{
+glyphname = "oboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120056;
+},
+{
+glyphname = "pboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120057;
+},
+{
+glyphname = "qboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120058;
+},
+{
+glyphname = "rboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120059;
+},
+{
+glyphname = "sboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120060;
+},
+{
+glyphname = "tboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120061;
+},
+{
+glyphname = "uboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120062;
+},
+{
+glyphname = "vboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120063;
+},
+{
+glyphname = "wboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120064;
+},
+{
+glyphname = "xboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120065;
+},
+{
+glyphname = "yboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120066;
+},
+{
+glyphname = "zboldscript-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120067;
+},
+{
+glyphname = "zerobold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120782;
+},
+{
+glyphname = "onebold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120783;
+},
+{
+glyphname = "twobold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120784;
+},
+{
+glyphname = "threebold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120785;
+},
+{
+glyphname = "fourbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120786;
+},
+{
+glyphname = "fivebold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120787;
+},
+{
+glyphname = "sixbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120788;
+},
+{
+glyphname = "sevenbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120789;
+},
+{
+glyphname = "eightbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120790;
+},
+{
+glyphname = "ninebold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120791;
+},
+{
+glyphname = "zerosans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120802;
+},
+{
+glyphname = "onesans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120803;
+},
+{
+glyphname = "twosans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120804;
+},
+{
+glyphname = "threesans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120805;
+},
+{
+glyphname = "foursans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120806;
+},
+{
+glyphname = "fivesans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120807;
+},
+{
+glyphname = "sixsans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120808;
+},
+{
+glyphname = "sevensans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120809;
+},
+{
+glyphname = "eightsans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120810;
+},
+{
+glyphname = "ninesans-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120811;
+},
+{
+glyphname = "zerosansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120812;
+},
+{
+glyphname = "onesansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120813;
+},
+{
+glyphname = "twosansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120814;
+},
+{
+glyphname = "threesansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120815;
+},
+{
+glyphname = "foursansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120816;
+},
+{
+glyphname = "fivesansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120817;
+},
+{
+glyphname = "sixsansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120818;
+},
+{
+glyphname = "sevensansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120819;
+},
+{
+glyphname = "eightsansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120820;
+},
+{
+glyphname = "ninesansbold-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120821;
+},
+{
+glyphname = "zeromono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120822;
+},
+{
+glyphname = "onemono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120823;
+},
+{
+glyphname = "twomono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120824;
+},
+{
+glyphname = "threemono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120825;
+},
+{
+glyphname = "fourmono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120826;
+},
+{
+glyphname = "fivemono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120827;
+},
+{
+glyphname = "sixmono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120828;
+},
+{
+glyphname = "sevenmono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120829;
+},
+{
+glyphname = "eightmono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120830;
+},
+{
+glyphname = "ninemono-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 120831;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 200;
+}
+);
+unicode = 32;
+},
+{
+glyphname = "mediumspace-math";
+layers = (
+{
+layerId = m01;
+width = 222;
+}
+);
+unicode = 8287;
+},
+{
+glyphname = "leftwhitesquarebracket-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10214;
+},
+{
+glyphname = "rightwhitesquarebracket-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10215;
+},
+{
+glyphname = "leftanglebracket-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10216;
+},
+{
+glyphname = "rightanglebracket-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10217;
+},
+{
+glyphname = "leftdoubleanglebracket-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10218;
+},
+{
+glyphname = "rightdoubleanglebracket-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10219;
+},
+{
+glyphname = "leftwhitetortoiseshellbracket-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10220;
+},
+{
+glyphname = "rightwhitetortoiseshellbracket-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10221;
+},
+{
+glyphname = "leftflattenedparenthesis-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10222;
+},
+{
+glyphname = "rightflattenedparenthesis-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10223;
+},
+{
+glyphname = "risingDiagonal-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10187;
+},
+{
+glyphname = "fallingDiagonal-math";
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 10189;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
